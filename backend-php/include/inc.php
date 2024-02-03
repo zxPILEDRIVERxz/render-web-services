@@ -140,7 +140,7 @@ const DEFAULTS = array(
     "map_attribution"       => 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
     "default_zoom"          => 14,
     "max_zoom"              => 19,
-    "max_duration"          => 86400,
+    "max_duration"          => 2592000,
     "min_interval"          => 1,
     "offline_timeout"       => 30,
     "request_timeout"       => 10,
